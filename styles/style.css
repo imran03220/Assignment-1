@@ -1,0 +1,40 @@
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.btn-primary{
+    background-color: #0D1321;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 21px 24px;
+    border-radius: 8px;
+    
+}
+/* header */
+.header{ 
+    background-image: url(../assets/Hero-bg.png);
+}
+/* banner styles */
+.banner-title{
+    font-weight: 800px;
+    font-size: 48px;
+    
+}
+.banner-description{
+    font-weight: 400px;
+    font-size: 16px;
+    
+}
+.banner-pic{
+    width: 240.280x;
+    height: 240px;
+
+}
+
